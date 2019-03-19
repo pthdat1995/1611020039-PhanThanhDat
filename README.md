@@ -2,7 +2,7 @@
 
 
 ```markdown
-**_THÔNG TIN CÁ NHÂN_**
+ _THÔNG TIN CÁ NHÂN_
 
 # Tên: Phan Thành Đạt
 # Ngày sinh: 11/06/1995

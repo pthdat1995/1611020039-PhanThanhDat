@@ -1,5 +1,5 @@
 ## _Hello, wellcome to my page_
-![Image of Yaktocat](https://www.facebook.com/photo.php?fbid=1097037740464349&set=a.106071439560989&type=3&theater)
+![Image of Yaktocat](https://5.imimg.com/data5/EF/RQ/MY-3030942/lenovo-desktop-computer-500x500.jpg)
 
 ```markdown
  _THÔNG TIN CÁ NHÂN_

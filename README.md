@@ -9,20 +9,9 @@ THÔNG TIN CÁ NHÂN
 # Trình độ: Đại học
 # Chuyên môn: Công nghệ thông tin
 # Kinh nghiệm làm việc: chưa có
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-# Facebook [Facebook](https://www.facebook.com/pthdat.95)
-# Twitter  [Twiter](https://twitter.com/pthdat1995)
+# Facebook [Click](https://www.facebook.com/pthdat.95)
+# Twiter [Click](https://twitter.com/pthdat1995)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

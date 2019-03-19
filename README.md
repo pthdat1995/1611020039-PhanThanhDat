@@ -9,8 +9,10 @@ THÔNG TIN CÁ NHÂN
 # Trình độ: Đại học
 # Chuyên môn: Công nghệ thông tin
 # Kinh nghiệm làm việc: chưa có
+```
+###### Dự án cá nhân [Click](https://github.com/pthdat1995/1611020039-PhanThanhDat)
 ###### Facebook [Click](https://www.facebook.com/pthdat.95)
 ###### Twiter [Click](https://twitter.com/pthdat1995)
-```
+
 
 

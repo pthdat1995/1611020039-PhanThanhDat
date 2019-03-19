@@ -13,6 +13,6 @@
 ###### Dự án cá nhân [Click](https://github.com/pthdat1995/1611020039-PhanThanhDat)
 ###### Facebook [Click](https://www.facebook.com/pthdat.95)
 ###### Twiter [Click](https://twitter.com/pthdat1995)
+###### Skype  pthdat1995@gmail.com
 
-![Image](https://static.makeuseof.com/wp-content/uploads/2011/12/facebook-icon.jpg =100x)
 

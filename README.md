@@ -1,8 +1,8 @@
-## Hello, wellcome to my page
+## _Hello, wellcome to my page_
 
 
 ```markdown
-THÔNG TIN CÁ NHÂN
+**_THÔNG TIN CÁ NHÂN_**
 
 # Tên: Phan Thành Đạt
 # Ngày sinh: 11/06/1995

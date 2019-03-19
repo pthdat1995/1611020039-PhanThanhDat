@@ -10,5 +10,5 @@ THÔNG TIN CÁ NHÂN
 # Chuyên môn: Công nghệ thông tin
 # Kinh nghiệm làm việc: chưa có
 ```
-  Facebook [Click](https://www.facebook.com/pthdat.95)
-  Twiter [Click](https://twitter.com/pthdat1995)
+###### Facebook [Click](https://www.facebook.com/pthdat.95)
+###### Twiter [Click](https://twitter.com/pthdat1995)

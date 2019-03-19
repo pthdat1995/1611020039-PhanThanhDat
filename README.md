@@ -9,8 +9,10 @@ THÔNG TIN CÁ NHÂN
 # Trình độ: Đại học
 # Chuyên môn: Công nghệ thông tin
 # Kinh nghiệm làm việc: chưa có
-# Facebook (https://www.facebook.com/pthdat.95)
-# Twitter (https://twitter.com/pthdat1995)
+# Facebook 
+(https://www.facebook.com/pthdat.95)
+# Twitter
+(https://twitter.com/pthdat1995)
 
 - Bulleted
 - List

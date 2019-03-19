@@ -14,5 +14,5 @@
 ###### Facebook [Click](https://www.facebook.com/pthdat.95)
 ###### Twiter [Click](https://twitter.com/pthdat1995)
 
-![Image](https://static.makeuseof.com/wp-content/uploads/2011/12/facebook-icon.jpg =100x20)
+![Image](https://static.makeuseof.com/wp-content/uploads/2011/12/facebook-icon.jpg =100x)
 

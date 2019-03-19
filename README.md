@@ -1,16 +1,16 @@
 ## Hello, wellcome to my page
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+THÔNG TIN CÁ NHÂN
 
-# Header 1
-## Header 2
-### Header 3
+# Tên: Phan Thành Đạt
+# Ngày sinh: 11/06/1995
+# Trình độ: Đại học
+# Chuyên môn: Công nghệ thông tin
+# Kinh nghiệm làm việc: chưa có
+# Facebook (https://www.facebook.com/pthdat.95)
+# Twitter (https://twitter.com/pthdat1995)
 
 - Bulleted
 - List
